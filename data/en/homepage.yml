@@ -1,0 +1,197 @@
+############################# banner ################################
+banner:
+  enable : true
+  title : "COVID-19 Data Forum"
+  bg_image: "images/banner/cover.png"
+  date_time : "June 29, at 10.00am PDT"
+  button:
+    enable : "Discover more"
+    label : "Discover more"
+    link : "about"
+
+########################## timer #################################
+timer:
+  enable : false
+  title : "**Count the days** <br> until the next conference"
+  # set timer
+  year: "2020"
+  month: "07"
+  day: "29"
+  hour: "01"
+
+############################## Event ##############################
+event:
+  enable : true
+  title_outline : "about"
+  title : "data-related aspects of the scientific response to the pandemic"
+  image_back : "images/blog/may14-screen2.png"
+  image_front : "images/blog/may14-screen.png"
+  content : "COVID-19 Data Forum: A series of multidisciplinary, online meetings for topic experts to focus on data-related
+  aspects of the scientific response to the pandemic, including data access and sharing, essential data resources for analysis,
+  and how we can best support decision making. The webinars are public and all are welcome."
+  button:
+    enable : true
+    label : "Learn More"
+    link : "about"
+
+######################### Call to action #########################
+cta:
+  enable : false
+  subtitle : "10% Sale offer for early birds"
+  title : "Meet top **digital masters** <br> & influencers in a unique **3-days** experience."
+  image : "images/banner/rev-slider-09.png"
+  button:
+    enable : true
+    label : "get ticket"
+    link : "pricing"
+
+############################# Feature ###########################
+feature:
+  enable: false
+  feature_item:
+    # feature item loop
+    - name : "Valuable Insight"
+      icon : "tf-ion-android-microphone"
+      content : "Events Drinks and Dancing are hosting an After Party and YOU ARE INVITED!!"
+
+    # feature item loop
+    - name : "Global Audience"
+      icon : "tf-ion-android-globe"
+      content : "Starting a mentoring program might be the closest you'll ever get to making a business decision that has exclusively positive impact."
+
+    # feature item loop
+    - name : "Great Community"
+      icon : "tf-ion-android-share"
+      content : "Networking is the exchange of information and ideas among people with a common profession or special interest, usually in an informal social setting."
+
+####################### Schedule #############################
+schedule:
+  enable : false
+  # schedule data comes from "schedule.yml" file
+
+####################### pricing #############################
+pricing:
+  enable : false
+  # pricing data comes from "pricing.yml" file
+
+########################## speaker ##########################
+speaker:
+  enable : false
+  title_outline : "Speakers"
+  title : "Who're speaking"
+  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  # speaker content comes from "content/speaker" folder
+
+######################### sponsor ############################
+sponsor:
+  enable :  true
+  title_outline : "Governance"
+  title : "Organization and Partners"
+  sponsor_group:
+    ############################ sponsor group loop
+    - title : "Organzing Committee"
+      sponsor:
+        # sponsor loop
+        - logo : ""
+          link : "author/joe-rickert"
+          name : "Joseph Rickert"
+          title : "Chair, R-Consortium Board of Directors"
+          org_name : "R-Consortium"
+
+        # sponsor loop
+        - logo : ""
+          link : "author/john-chambers"
+          name : "John chambers"
+          title : "Adjunct Professor"
+          org_name : "Stanford University"
+
+        # sponsor loop
+        - logo : ""
+          link : "author/alison-hill"
+          name : "Alison L. Hill"
+          title : "Research Fellow and independent principal investigator at Harvard’s Program for Evolutionary Dynamics"
+          org_name : "Harvard University"
+
+        # sponsor loop
+        - logo : ""
+          link : "author/michael-kane"
+          name : "Michael Kane"
+          title : "Assistant Professor, Department of Biostatistics"
+          org_name : "Yale University"
+
+        # sponsor loop
+        - logo : ""
+          link : "author/naras"
+          name : "Balasubramanian Narasimhan"
+          title : "Senior Research Scientist, Department of Biomedical Data Sciences"
+          org_name : "Stanford University"
+
+        # sponsor loop
+        - logo : ""
+          link : "author/chris-mentzel"
+          name : "Chris Mentzel"
+          title : "Executive Director Stanford Data Science"
+          org_name : "Stanford University"
+
+
+    ############################ sponsor group loop
+    - title : "Founding Sponsors"
+      sponsor:
+        # sponsor loop
+        - logo : "images/clients/r_consortium-bw.png"
+          link : "https://r-consortium.org"
+
+        # sponsor loop
+        - logo : "images/clients/stanford-bw.png"
+          link : "https://datascience.stanford.edu"
+
+#        # sponsor loop
+#        - logo : "images/clients/client-img-3.png"
+#          link : "https://examplesite.org"
+
+
+
+    ############################ sponsor group loop
+#    - title : "Sponsors and Partners"
+#      sponsor:
+#        # sponcor loop
+#        - logo : "images/clients/client-img-6.png"
+#          link : "https://examplesite.org"
+
+
+
+  # call to action in sponsor
+  sponsorship:
+    enable : true
+    title : "Want to be a sponsor ?"
+    #button
+    label : "Contact Us"
+    link : "/contact"
+
+################################ venue ########################
+venue:
+  enable : false
+  title : "Venue location"
+  image : "images/bg/cta-bg.jpg"
+  date : "18 - 21 December, 2019"
+  location : "85 Golden Street, Darlinghurst <br>ERP 2019, United States"
+  button:
+    enable : true
+    label : "View Map location"
+    link : "contact"
+
+############################### Blog ######################################
+blog:
+  enable : false
+  title_outline : "News"
+  title : "Latest News"
+  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  # blog content comes from "content/blog" folder
+
+############################### Meetings ######################################
+meeting:
+  enable : true
+  title_outline : "Meetings"
+  title : "Previous Meetings"
+  content : "Information on past meetings, events, conferences, webinars."
+  # blog content comes from "content/meetings" folder

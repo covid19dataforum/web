@@ -1,0 +1,69 @@
+################################# timer ############################
+timer:
+  enable : true
+  title : "**Count the day** <br>until conference start"
+  content : "Our goal is to provide a forum for those active in data-related efforts to deal with the COVID-19 pandemic, where they can share experience, suggestions and ideas for the future. We hope you’ll join us!"
+  # timer value comes from "homepage.yml" file
+
+################################# Pricing ##########################
+pricing:
+  enable : true
+  title_outline : "Register"
+  title : "Let us know you are attending"
+  content : "By registering you'll let the organziers know how many people to expect and help to manage resources"
+  pricing_table:
+    # pricing table loop
+    - title : "Let us know"
+      style : "1"
+      price : "0$"
+      icon : "tf-ion-android-bulb"
+      bg_image : "images/bg/page-header.jpg"
+      services:
+        - "Front row zoom seats!"
+        - "No dress code"
+        - "Q/A session"
+      button:
+        label : "buy now"
+        link : "#"
+
+    # pricing table loop
+    #- title : "Team"
+    #  style : "2"
+    #  price : "250$"
+    #  icon : "tf-ion-android-hangout"
+    #  bg_image : "images/bg/page-header.jpg"
+    #  services:
+    #    - "Two Days Ticket"
+    #    - "Coffee & Launch"
+    #    - "Networking"
+    #    - "Certificate"
+    #    - "Gift Box"
+    #    - "Public ad listing"
+    #    - "Email listing"
+    #  button:
+    #    label : "Get now"
+    #    link : "#"
+
+    # pricing table loop
+    #- title : "Economic"
+    #  style : "3"
+    #  price : "300$"
+    #  icon : "tf-ion-android-person"
+    #  bg_image : "images/bg/page-header.jpg"
+    #  services:
+    #    - "Two Days Ticket"
+    #    - "Coffee & Launch"
+    #    - "Networking"
+    #    - "Certificate"
+    #    - "Gift Box"
+    #    - "Public ad listing"
+    #    - "Dinner Serve"
+    #    - "Email listing"
+    #  button:
+    #    label : "Get now"
+    #    link : "#"
+
+############################## Event ##############################
+event:
+  enable : true
+  # event content comes from "homepage.yml" file

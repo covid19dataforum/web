@@ -1,0 +1,109 @@
+################## about #################################
+about:
+  enable : true
+  image : "images/blog/may14-screen.png"
+  title : "Data experts **convening** with other experts"
+  content : "The COVID-19 pandemic has challenged science and society to an unprecedented degree. Human lives and the
+  future of our society depend on the response. That response, in turn, depends critically on data. This data must be as
+  complete and accurate as possible; easily and flexibly accessible, and equipped to communicate effectively with
+  decision-makers and the public. The **COVID-19 Data Forum** is a project to bring together those involved with relevant
+  data in a series of multidisciplinary online meetings discussing current resources, needed enhancements, and the
+  potential for co-operative efforts."
+################## sponsor ###############################
+sponsor:
+  enable : true
+  # sponsor data comes from "homepage.yml" file
+
+
+################## Feature ##############################
+feature:
+  enable : false
+  subtitle : "10% Sale offer for early birds"
+  title : "Meet top **digital masters** & influencers in a unique **3-days** experience."
+  button:
+    enable : true
+    label : "Get ticket"
+    link : "pricing"
+
+  feature_item:
+    # feature item loop
+    - title : "Valuable Insight"
+      icon : "tf-ion-android-microphone" # check `static/plugins/themefisher-font/demo.html` for more icon
+      bg_color : "" # if color is empty, it will get the default dark color
+      content : "Starting a mentoring program might be the closest you'll ever get."
+
+    # feature item loop
+    - title : "Global Audience"
+      icon : "tf-ion-android-globe" # check `static/plugins/themefisher-font/demo.html` for more icon
+      bg_color : "#ff4747"
+      content : "Starting a mentoring program might be the closest you'll ever get."
+
+    # feature item loop
+    - title : "Global Audience"
+      icon : "tf-ion-android-microphone" # check `static/plugins/themefisher-font/demo.html` for more icon
+      bg_color : "#4125dd"
+      content : "Starting a mentoring program might be the closest you'll ever get."
+
+################## Feature ##############################
+details:
+  enable : true
+  title : "Details on the forum."
+  content: "A series of private and public discussions, involving active participants in the
+  wide range of disciplines concerned with COVID-19 related data. These discussions will
+  also actively seek dialog with decision-makers and others relying on information from the
+  data and from models or analysis based on it. **The Forum** places particular emphasis on
+  being open to all relevant interested groups and, with respect to computing, to considering
+  all useful tools, languages and environments. **We hope** that the COVID-19 Data Forum
+  discussions can usefully proceed through three stages of questions:
+
+    - Where are we now, with respect to resources and needs?
+
+    - What immediate steps (e.g. in terms of sharing) would make improvements?
+
+    - What potential projects for new tools, standards, or data models might be worth undertaking?
+
+
+    At all stages, there are many specific topics that need discussion. To sort them out,
+    three kinds of activities are useful categories: **obtaining** the data; **using** the data; and **communicating** about the data."
+
+  details_item:
+    # details item loop
+    - title : "Obtaining the data"
+      icon : "tf-ion-android-cloud-done" # check `static/plugins/themefisher-font/demo.html` for more icon
+      bg_color : "#17a2b8"
+      content : "The COVID-19 data challenges begin with just acquiring data of the range and quality needed.
+      A very wide range of data is needed, in three dimensions: geographical, time and domain. Depending on the
+      purpose, data may be needed either very specifically local or at the widest global level. Both are
+      challenging --- finding reliable local sources and resolving hugely variable international ones,
+      for example. Particularly on the global (or even national) scale, variable quality will often be a
+      challenge. **Timeliness** of the data is clearly essential, particularly as public health regulations and other
+      societal responses change. But scientific models and analysis may also need to have data over a long time span.
+      **The pandemic** has touched our lives in many ways: directly in our health but also in nearly all aspects of
+      our economy and society. As the world responds, data science will need to consider all these aspects, requiring
+      data from the microscopic level of the virus to the population data for epidemiology, social science, and economics."
+
+    # details item loop
+    - title : "Using the data"
+      icon : "tf-ion-fork-repo" # check `static/plugins/themefisher-font/demo.html` for more icon
+      bg_color : "#17a2b8"
+      content : "The response to the COVID-19 pandemic from the Community continues to generate
+      crucial data-based results. Epidemiologists, public health experts, data scientists, and other researchers
+      have produced a large number of predictive models, interactive resource allocation applications, and
+      disease tracking dashboards.
+
+      Moving ahead, it will be important to have easy, consistent access to the best data for all these efforts.
+      Co-operation and co-ordination among the teams involved can enhance the scope and help ensure that model
+      results and comparisons use consistent, well-defined data sources."
+
+    # details item loop
+    - title : "Communicating data"
+      icon : "tf-presentation" # check `static/plugins/themefisher-font/demo.html` for more icon
+      bg_color : "#17a2b8"
+      content : "A key goal of the Data Forum is to improve communication between decision-makers
+      (in public health, government, and elsewhere) and the data science and general research community.
+      Many tools have been developed for visualizing and interacting with data. It's important to understand
+      how these can be used and enhanced for the decision-making community. We look forward to participation in
+      our meetings by interested members of this community.
+
+      Another important goal is to improve the information flow to the broader community, with emphasis on
+      giving insight and avoiding misdirection."
