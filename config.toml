@@ -62,16 +62,19 @@ link = "plugins/google-map/map.js"
 
     [[menu.main]]
     parent = "Info"
+    weight = 1
     name = "About"
     URL = "about"
 
     [[menu.main]]
     parent = "Info"
+    weight = 2
     name = "Meetings"
     URL = "meetings"
 
     [[menu.main]]
     parent = "Info"
+    weight = 3
     name = "Blog"
     URL = "blog"
 
@@ -82,6 +85,7 @@ link = "plugins/google-map/map.js"
 
     [[menu.main]]
     parent = "Info"
+    weight = 4
     name = "FAQ"
     URL = "faq"
 
