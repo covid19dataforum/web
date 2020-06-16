@@ -3,7 +3,7 @@ banner:
   enable : true
   title : "COVID-19 Data Forum"
   bg_image: "images/banner/cover.png"
-  date_time : "June 29, at 10.00am PDT"
+  date_time : "July 16, at 09.00 PDT"
   button:
     enable : "Discover more"
     label : "Discover more"
@@ -16,8 +16,8 @@ timer:
   # set timer
   year: "2020"
   month: "07"
-  day: "29"
-  hour: "01"
+  day: "16"
+  hour: "09"
 
 ############################## Event ##############################
 event:
