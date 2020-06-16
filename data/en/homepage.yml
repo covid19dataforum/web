@@ -11,7 +11,7 @@ banner:
 
 ########################## timer #################################
 timer:
-  enable : false
+  enable : true
   title : "**Count the days** <br> until the next conference"
   # set timer
   year: "2020"
