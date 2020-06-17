@@ -76,10 +76,10 @@ pricing:
 
 ########################## speaker ##########################
 speaker:
-  enable : false
+  enable : true
   title_outline : "Speakers"
-  title : "Who're speaking"
-  content : "Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio."
+  title : "To Be Announced"
+  content : "Check back for speaker announcments."
   # speaker content comes from "content/speaker" folder
 
 ######################### sponsor ############################

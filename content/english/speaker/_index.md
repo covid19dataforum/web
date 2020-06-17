@@ -6,6 +6,6 @@ description: "this is meta description"
 bg_image : "images/bg/cta-bg.jpg"
 ---
 
-## Who're speaking
+## Speakers are to be announced
 
-Accusantium provident suscipit dicta magni dolor deserunt nam obcaecati non veritatis optio.
+Stay tuned for speaker announcements.
