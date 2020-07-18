@@ -2,8 +2,9 @@
 banner:
   enable : true
   title : "COVID-19 Data Forum"
+  subtitle: "Good data requires people, planning, policies"  
   bg_image: "images/banner/cover.png"
-  date_time : "July 16, at 09.00 PDT"
+  date_time : "August 13, 2020 at 09.00 PDT"
   button:
     enable : "Discover more"
     label : "Discover more"
@@ -12,23 +13,24 @@ banner:
 ########################## timer #################################
 timer:
   enable : true
-  title : "**Count the days** <br> until the next conference"
+  title : "**Time** to next conference"
   # set timer
   year: "2020"
-  month: "07"
-  day: "16"
+  month: "08"
+  day: "13"
   hour: "09"
 
 ############################## Event ##############################
 event:
   enable : true
   title_outline : "about"
-  title : "data-related aspects of the scientific response to the pandemic"
+  title : "Data drives the effort to beat COVID-19"
   image_back : "images/blog/may14-screen2.png"
   image_front : "images/blog/may14-screen.png"
-  content : "COVID-19 Data Forum: A series of multidisciplinary, online meetings for topic experts to focus on data-related
-  aspects of the scientific response to the pandemic, including data access and sharing, essential data resources for analysis,
-  and how we can best support decision making. The webinars are public and all are welcome."
+  content : "The COVID-19 pandemic is challenging science and society to an unprecedented degree. Human lives and the future of our society are at stake. Containing the virus and “flattening the curve” of the pandemic depend on mounting a strong, coordinated, scientifically informed public health response which will, in turn, ultimately depend on having complete and accurate data from multiple data sources.\n\n 
+
+The COVID-19 Data Forum: is an ongoing series of multidisciplinary, webinars and online meetings for topic experts to discuss data-related aspects of the scientific response to the pandemic.  The COVID-19 Data Forum is a joining project of the R Consortium and the Stanford Data Science Institute. The webinars are free and open to the public."
+
   button:
     enable : true
     label : "Learn More"

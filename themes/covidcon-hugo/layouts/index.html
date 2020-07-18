@@ -11,7 +11,8 @@
       <div class="col-lg-7 mr-auto">
         <div class="banner-content">
           <span style="color:white;"> {{ .date_time }}</span>
-          <h1 class="mt-3 mb-5" style="color:white;">{{ .title | markdownify }}</h1>
+          <h1 class="mt-1 mb-3" style="color:white;">{{ .title | markdownify }}</h1>
+          <h2 class="mt-1 mb-3" style="color:white;">{{ .subtitle | markdownify }}</h2>	  
           {{ if .button.enable }}
           {{ with .button }}
           <a href="{{ .link | absLangURL }}" class="btn btn-hero btn-rounded">{{ .label }}</a>

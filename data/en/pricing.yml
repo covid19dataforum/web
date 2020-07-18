@@ -1,8 +1,14 @@
 ################################# timer ############################
 timer:
   enable : true
-  title : "**Count the day** <br>until conference start"
-  content : "Our goal is to provide a forum for those active in data-related efforts to deal with the COVID-19 pandemic, where they can share experience, suggestions and ideas for the future. We hope you’ll join us!"
+  title : ""
+  content : "In this event we seek to move the discussion of COVID-19 data beyond collecting simple metrics such as cases, deaths, and hospitalizations at coarse geographic and demographic scales to what it will take to understand the pathology of the disease. To better understand the mechanisms for disease transmission, and the healthcare resources required for effective policies, scientists will need access to higher-dimensional patient-level data. Gathering and sharing this data will pose tremendous challenges in terms of patient privacy and data harmonization.
+
+
+The public webinar will begin at noon Eastern time (UTC -4) on August 13, 2020 and run for ninety minutes. We are planning for three, fifteen minutes talks, and thirty minutes of discussion afterwards.
+
+<h3>Time to conference start</h3>
+"
   # timer value comes from "homepage.yml" file
 
 ################################# Pricing ##########################
