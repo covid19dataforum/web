@@ -119,7 +119,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [params.navigation_button]
 enable = true
-label = "Register"
+label = "Next Meeting"
 link = "register"
 
 
