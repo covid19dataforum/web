@@ -2,10 +2,24 @@
 timer:
   enable : true
   title : ""
-  content : "In this event we seek to move the discussion of COVID-19 data beyond collecting simple metrics such as cases, deaths, and hospitalizations at coarse geographic and demographic scales to what it will take to understand the pathology of the disease. To better understand the mechanisms for disease transmission, and the healthcare resources required for effective policies, scientists will need access to higher-dimensional patient-level data. Gathering and sharing this data will pose tremendous challenges in terms of patient privacy and data harmonization.
-
-
-The public webinar will begin at noon Eastern time (UTC -4) on August 13, 2020 and run for ninety minutes. We are planning for three, fifteen minutes talks, and thirty minutes of discussion afterwards.
+  content : "COVID-19 spreads by close contact between individuals,
+  and around the world control efforts have focused on reducing
+  human-to-human contact by “social distancing” and “stay-at-home”
+  policies. Despite the central role of human movement and contact in
+  the pandemic, it remains extremely challenging to infer the past
+  route of virus spread, forecast future transmission pathways, or
+  monitor the reduction in person-to-person contacts in response to
+  policies. Large-scale human mobility data has emerged as a novel
+  data source to approximate human contact. This data is now being
+  produced by telecommunications companies, smartphone manufacturers,
+  social media platforms, transit agencies, and more, and analyzed by
+  researchers across domains.\n\nThis public webinar and discussion will focus on the key challenges
+and opportunities for mobility data, including data access, privacy
+concerns, biases, similarities and differences between sources, and
+the utility for modeling and public health decision making. The event
+will be open to the public, and is part of a continuing series
+focusing on data-related aspects of the scientific response to the
+pandemic.
 
 <h3>Time to conference start</h3>
 "
