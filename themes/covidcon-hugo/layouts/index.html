@@ -48,6 +48,12 @@
 {{ end }}
 <!-- /timer -->
 
+<!-- schedule -->
+{{ if $data.homepage.schedule.enable }}
+{{ partial "schedule.html" . }}
+{{ end }}
+<!-- /schedule -->
+
 <!-- event  -->
 {{ if $data.homepage.event.enable }}
 {{ partial "event.html" . }}
@@ -104,11 +110,7 @@
 {{ end }}
 <!-- /feature -->
 
-<!-- schedule -->
-{{ if $data.homepage.schedule.enable }}
-{{ partial "schedule.html" . }}
-{{ end }}
-<!-- /schedule -->
+
 
 <!-- pricing -->
 {{ if $data.homepage.pricing.enable }}
