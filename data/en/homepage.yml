@@ -13,11 +13,11 @@ banner:
 ########################## timer #################################
 timer:
   enable : true
-  title : "**Time** to next conference"
+  title : "**Time** until next conference"
   # set timer
   year: "2020"
-  month: "08"
-  day: "13"
+  month: "12"
+  day: "10"
   hour: "09"
 
 ############################## Event ##############################
