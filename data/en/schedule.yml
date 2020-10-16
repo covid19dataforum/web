@@ -1,45 +1,39 @@
 schedule:
   enable : true
-  title_outline : "schedule"
+  title_outline : "next meeting"
   title : "Discussion Topic"
-  content : "Clinical Data."
+  content : "Using Mobility Data to Monitor and Forecast the COVID-19""
   schedule_tab:
     ################# tab itam loop ################
-    - title : "Day 1"
-      date_time : "16 July 2020 [09.00am - 10.30am PDT]"
+    - title : "Speakers"
+      date_time : "10 December 2020 [09.00am - 10.30am PDT]"
       schedule_items:
         # schedule loop item
-        - time : "9.00am"
+        - time : ""
           image : "images/about/wordpress.png"
           content : "
 
-          ### Welcome
-
-          ###### By Organzing Committee
+          Speaker 1
 
 
           "
 
         # schedule loop item
-        - time : "9.10am"
+        - time : ""
           image : "images/about/big-data.png"
           content : "
 
-          ### Speakers
-
-          ###### TBD
+          speaker 2
 
 
           "
 
         # schedule loop item
-        - time : "10am"
+        - time : ""
           image : "images/about/creativity.jpg"
           content : "
 
-          ### Discussion / Open Q&A
-
-          ###### Speakers and Org Committee
+         speaker 3
 
 
           "
