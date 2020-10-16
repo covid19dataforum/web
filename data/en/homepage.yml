@@ -20,11 +20,6 @@ timer:
   day: "10"
   hour: "09"
 
-####################### Schedule #############################
-schedule:
-  enable : true
-  # schedule data comes from "schedule.yml" file
-
 ############################## Event ##############################
 event:
   enable : true
@@ -70,6 +65,11 @@ feature:
     - name : "Great Community"
       icon : "tf-ion-android-share"
       content : "Networking is the exchange of information and ideas among people with a common profession or special interest, usually in an informal social setting."
+
+####################### Schedule #############################
+schedule:
+  enable : true
+  # schedule data comes from "schedule.yml" file
 
 ####################### pricing #############################
 pricing:
