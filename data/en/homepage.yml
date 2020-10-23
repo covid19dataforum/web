@@ -83,12 +83,12 @@ pricing:
   # pricing data comes from "pricing.yml" file
 
 ########################## speaker ##########################
-speaker:
-  enable : true
-  title_outline : "Speakers"
-  title : "To Be Announced"
-  content : "Check back for speaker announcments."
-  # speaker content comes from "content/speaker" folder
+# speaker:
+#   enable : true
+#   title_outline : "Speakers"
+#   title : "To Be Announced"
+#   content : "Check back for speaker announcments."
+#   # speaker content comes from "content/speaker" folder
 
 ######################### sponsor ############################
 sponsor:
