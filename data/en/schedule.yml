@@ -2,7 +2,7 @@ schedule:
   enable : true
   title_outline : ""  ## Anything here shows up in big letters using
                       ## font outlines and takes up space!
-  title : "Mobility data in Monitoring/Forecasting COVID-19"
+  title : "Mobility data in Monitoring Forecasting COVID-19"
   content : "The goal of this upcoming event is to discuss the promises and challenges of large-scale human mobility data, and the diversity of ways it’s used to understand SARS-CoV-2 spread and the behavioral/policy responses to the pandemic."
   schedule_tab:
     ################# tab itam loop ################
