@@ -27,7 +27,7 @@ timer:
 ## The content below is just a copy from en/about.yml for starting out
 event:
   enable : true
-  title_outline : "Junk"
+  title_outline : "About"
   title : "Data drives the effort to beat COVID-19"
   image_back : "images/blog/may14-screen2.png"
   image_front : "images/blog/may14-screen.png"
@@ -83,12 +83,12 @@ pricing:
   # pricing data comes from "pricing.yml" file
 
 ########################## speaker ##########################
-speaker:
-  enable : true
-  title_outline : "Speakers"
-  title : "To Be Announced"
-  content : "Check back for speaker announcments."
-  # speaker content comes from "content/speaker" folder
+# speaker:
+#   enable : true
+#   title_outline : "Speakers"
+#   title : "To Be Announced"
+#   content : "Check back for speaker announcments."
+#   # speaker content comes from "content/speaker" folder
 
 ######################### sponsor ############################
 sponsor:
