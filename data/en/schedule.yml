@@ -1,49 +1,73 @@
 schedule:
   enable : true
-  title_outline : "next meeting"
-  title : "Discussion Topic"
-  content : "Using Mobility Data to Monitor and Forecast the COVID-19."
+  title_outline : ""  ## Anything here shows up in big letters using
+                      ## font outlines and takes up space!
+  title : "Mobility data in Monitoring/Forecasting COVID-19"
+  content : "The goal of this upcoming event is to discuss the promises and challenges of large-scale human mobility data, and the diversity of ways it’s used to understand SARS-CoV-2 spread and the behavioral/policy responses to the pandemic."
   schedule_tab:
     ################# tab itam loop ################
-    - title : "Speakers"
+    - title : "Agenda"
       date_time : "10 December 2020 [09.00am - 10.30am PDT]"
       schedule_items:
+
         # schedule loop item
         - time : "9.00am"
-          image : "images/about/wordpress.png"
+          image : "images/people/2020-12-10/volinksy.jpg"
           content : "
 
-          ### Speaker 1
+          ### [Chris Volinksky, PhD](http://stats.research.att.com/volinsky/)
 
-          ###### Name
+          ###### Associate vice-president, Big Data Research, ATT Labs.
+
+
+          "
+        # schedule loop item
+        - time : "9:05am"
+          image : "images/people/2020-12-10/Buckee_photograph-1200x1800.jpg"
+          content : "
+
+          ### [Caroline Buckee](https://www.hsph.harvard.edu/caroline-buckee/)
+
+          ###### Associate Professor of Epidemiology and Associate
+          Director of the Center for Communicable Disease Dynamics at
+          the Harvard T.H. Chan School of Public Health.
 
 
           "
 
         # schedule loop item
-        - time : "9.10am"
-          image : "images/about/big-data.png"
+        - time : "9.25am"
+          image : "images/people/2020-12-10/Schroeder.jpg"
           content : "
 
-          ### Speaker 2
+          ### [Andrew Schoeder, PhD](https://www.directrelief.org/author/aschroeder/)
 
-          ###### name
+          ###### Vice-president Research & Analytics for Direct Relief.
+
+          "
+        # schedule loop item
+        - time : "9:45am"
+          image : "images/people/2020-12-10/Fraser.webp"
+          content : "
+
+          ### Christophe Fraser
+
+          ###### Professor of Pathogen Dynamics at University of
+          Oxford and Senior Group Leader at Big Data Institute, Oxford
+          University, UK.
 
 
           "
 
         # schedule loop item
-        - time : "10am"
-          image : "images/about/creativity.jpg"
+        - time : "10:05am"
+          image : ""
           content : "
 
-          ### Speaker 3
-
-          ###### Name
+          ### Panel Q&A 
 
 
           "
-
 
     ################# tab itam loop ################
 #    - title : "Day 2"

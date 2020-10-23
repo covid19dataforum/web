@@ -21,9 +21,13 @@ timer:
   hour: "09"
 
 ############################## Event ##############################
+## This should be about the series of events. Don't be confused
+## about the content. The about content as of now (2020-10-23) is
+## served out of en/about.yml
+## The content below is just a copy from en/about.yml for starting out
 event:
   enable : true
-  title_outline : "about"
+  title_outline : "Junk"
   title : "Data drives the effort to beat COVID-19"
   image_back : "images/blog/may14-screen2.png"
   image_front : "images/blog/may14-screen.png"
@@ -67,6 +71,8 @@ feature:
       content : "Networking is the exchange of information and ideas among people with a common profession or special interest, usually in an informal social setting."
 
 ####################### Schedule #############################
+## Repurposing this section to include discussion topics
+## and speakers and discussants for the next meeting
 schedule:
   enable : true
   # schedule data comes from "schedule.yml" file

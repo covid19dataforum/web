@@ -120,7 +120,7 @@ preloader = "" # use jpg, png, svg or gif format.
 [params.navigation_button]
 enable = true
 label = "Next Meeting"
-link = "register"
+link = "https://stanford.zoom.us/webinar/register/8216034837368/WN_-AJ4YDLzQWyCN0Tb0vPOvg"
 
 
 # Subscription
