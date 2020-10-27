@@ -9,7 +9,7 @@ email: "chrismentzel@stanford.edu"
 # meta description
 #description : "this is meta description"
 # social
-# social:
+social:
 #  - icon : "tf-ion-social-facebook"
 #    link : "#"
 
