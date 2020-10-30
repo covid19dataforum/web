@@ -2,7 +2,7 @@
 banner:
   enable : true
   title : "COVID-19 Data Forum"
-  subtitle: "Good data requires people, planning, policies"  
+  subtitle: "Good data requires people, planning, policies"
   bg_image: "images/banner/cover.png"
   date_time : "December 10, 2020 at 09.00 PDT"
   button:
@@ -31,9 +31,9 @@ event:
   title : "Data drives the effort to beat COVID-19"
   image_back : "images/blog/may14-screen2.png"
   image_front : "images/blog/may14-screen.png"
-  content : "The COVID-19 pandemic is challenging science and society to an unprecedented degree. Human lives and the future of our society are at stake. Containing the virus and “flattening the curve” of the pandemic depend on mounting a strong, coordinated, scientifically informed public health response which will, in turn, ultimately depend on having complete and accurate data from multiple data sources.\n\n 
+  content : "The COVID-19 pandemic is challenging science and society to an unprecedented degree. Human lives and the future of our society are at stake. Containing the virus and “flattening the curve” of the pandemic depend on mounting a strong, coordinated, scientifically informed public health response which will, in turn, ultimately depend on having complete and accurate data from multiple data sources.\n\n
 
-The COVID-19 Data Forum: is an ongoing series of multidisciplinary, webinars and online meetings for topic experts to discuss data-related aspects of the scientific response to the pandemic.  The COVID-19 Data Forum is a joining project of the R Consortium and the Stanford Data Science Institute. The webinars are free and open to the public."
+The COVID-19 Data Forum: is an ongoing series of multidisciplinary, webinars and online meetings for topic experts to discuss data-related aspects of the scientific response to the pandemic.  The COVID-19 Data Forum is a joint project of the R Consortium and the Stanford Data Science Institute. The webinars are free and open to the public."
 
   button:
     enable : true
