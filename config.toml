@@ -72,22 +72,22 @@ link = "plugins/google-map/map.js"
     name = "Meetings"
     URL = "meetings"
 
-    [[menu.main]]
-    parent = "Info"
-    weight = 3
-    name = "Blog"
-    URL = "blog"
+    # [[menu.main]]
+    # parent = "Info"
+    # weight = 3
+    # name = "Blog"
+    # URL = "blog"
 
-  #  [[menu.main]]
-  #  parent = "Info"
-  #  name = "0011 - Schedule"
-  #  URL = "schedule"
+    # [[menu.main]]
+    # parent = "Info"
+    # name = "0011 - Schedule"
+    # URL = "schedule"
 
-    [[menu.main]]
-    parent = "Info"
-    weight = 4
-    name = "FAQ"
-    URL = "faq"
+    # [[menu.main]]
+    # parent = "Info"
+    # weight = 4
+    # name = "FAQ"
+    # URL = "faq"
 
   [[menu.main]]
   name = "Contact"
