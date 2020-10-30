@@ -11,7 +11,7 @@ image : "images/blog/may14-screen.png"
 author: "John Chambers"
 # Taxonomies
 categories: ["Past Event"]
-tags: ["Overview","Intro"]
+#tags: ["Overview","Intro"]
 # type
 type: "meeting"
 ---
