@@ -117,8 +117,8 @@ sponsor:
         - logo : ""
           link : "author/alison-hill"
           name : "Alison L. Hill"
-          title : "Research Fellow and independent principal investigator at Harvard’s Program for Evolutionary Dynamics"
-          org_name : "Harvard University"
+          title : "Assistant Professor, Institute for Computational Medicine"
+          org_name : "Johns Hopkins University"
 
         # sponsor loop
         - logo : ""
