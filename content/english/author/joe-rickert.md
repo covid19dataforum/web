@@ -9,12 +9,12 @@ image: "images/teams/joe-rickert.png"
 # meta description
 description : "this is meta description"
 # social
-# social:
+social:
 #  - icon : "tf-ion-social-facebook"
 #    link : "#"
 
-#  - icon : "tf-ion-social-twitter"
-#    link : "#"
+  - icon : "tf-ion-social-twitter"
+    link : "https://twitter.com/rstudiojoe"
 
 #  - icon : "tf-ion-social-instagram"
 #    link : "#"
@@ -23,4 +23,10 @@ description : "this is meta description"
 #    link : "#"
 ---
 
-Joe Rickert - Chair, R-Consortium Board of Directors, R-Consortium.
+Joe Rickert is Chair of the R-Consortium Board of Directors.  Joe has
+worked as a statistician for a small healthcare economics consulting
+firm, and before that he held a variety of technical, marketing and
+sales positions while working for startups that spanned multiple
+industries including government contracting, local area networks, disk
+drives and test equipment. Joe is also RStudio’s “Ambassador at Large”
+for all things R, and editor of the R Views blog.

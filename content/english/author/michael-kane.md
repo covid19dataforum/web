@@ -3,7 +3,7 @@ title: "Michael Kane"
 date: 2020-06-16T10:27:41-07:00
 bg_image : "images/bg/cta-bg.jpg"
 # portrait
-image: "images/teams/michael-kane.webp"
+image: "images/teams/michael-kane.jpg"
 # email
 email: "michael.kane@yale.edu"
 # meta description
@@ -23,7 +23,7 @@ social:
 #    link : "#"
 ---
 
-Michael Kane is an Assistant Professor in Yale University's
+Michael Kane is Assistant Professor in Yale University's
 Biostatistics Department. He is also part of the Yale Center of
 Analytical Sciences and Yale School of Public Health where he is
 involved in the analytics clinics and global health studies. He is
