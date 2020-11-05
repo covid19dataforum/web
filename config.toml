@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://zealous-kepler-6d9dc3.netlify.app"
+baseURL = "http://covid19-data-forum.org"
 title = "COVID-19 Data Forum"
 theme = "covidcon-hugo"
 publishDir = "docs"
