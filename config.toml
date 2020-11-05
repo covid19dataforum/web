@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://covid19-data-forum.org/"
+baseURL = "https://covid19-data-forum.org/"
 title = "COVID-19 Data Forum"
 theme = "covidcon-hugo"
 publishDir = "docs"
