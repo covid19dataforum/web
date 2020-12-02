@@ -36,18 +36,8 @@ schedule:
           "
 
         # schedule loop item
-        - time : "9.25am"
-          image : "images/people/2020-12-10/Schroeder.jpg"
-          content : "
-
-          ### [Andrew Schoeder, PhD](https://www.directrelief.org/author/aschroeder/)
-
-          ###### Vice-president Research & Analytics for Direct Relief.
-
-          "
-        # schedule loop item
-        - time : "9:45am"
-          image : "images/people/2020-12-10/Fraser.webp"
+        - time : "9:25am"
+          image : "images/people/2020-12-10/Fraser.jpg"
           content : "
 
           ### Christophe Fraser
@@ -56,6 +46,17 @@ schedule:
           Oxford and Senior Group Leader at Big Data Institute, Oxford
           University, UK.
 
+
+          "
+
+        # schedule loop item
+        - time : "9.45am"
+          image : "images/people/2020-12-10/Schroeder.jpg"
+          content : "
+
+          ### [Andrew Schoeder, PhD](https://www.directrelief.org/author/aschroeder/)
+
+          ###### Vice-president Research & Analytics for Direct Relief.
 
           "
 
