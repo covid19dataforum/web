@@ -4,7 +4,7 @@ banner:
   title : "COVID-19 Data Forum"
   subtitle: "Good data requires people, planning, policies"
   bg_image: "images/banner/cover.png"
-  date_time : "December 10, 2020 at 09.00 PDT"
+  date_time : ""
   button:
     enable : "Discover more"
     label : "Discover more"
@@ -12,7 +12,7 @@ banner:
 
 ########################## timer #################################
 timer:
-  enable : true
+  enable : false
   title : "**Time** to next conference"
   # set timer
   year: "2020"

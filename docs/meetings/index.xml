@@ -2,31 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Past Meetings on COVID-19 Data Forum</title>
-    <link>/meetings/</link>
+    <link>https://covid19-data-forum.org/meetings/</link>
     <description>Recent content in Past Meetings on COVID-19 Data Forum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020</copyright>
-    <lastBuildDate>Thu, 11 Jun 2020 13:51:25 +0600</lastBuildDate>
-    
-	<atom:link href="/meetings/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 11 Jun 2020 13:51:25 +0600</lastBuildDate><atom:link href="https://covid19-data-forum.org/meetings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>August 13, 2020 Webinar Recap</title>
+      <link>https://covid19-data-forum.org/meetings/20200813_webinar/</link>
+      <pubDate>Thu, 14 May 2020 13:51:25 +0600</pubDate>
+      
+      <guid>https://covid19-data-forum.org/meetings/20200813_webinar/</guid>
+      <description>Beyond case counts: Making COVID-19 clinical data available and useful August 13, 2020</description>
+    </item>
     
     <item>
       <title>Intro to the first meeting</title>
-      <link>/meetings/1st_meeting/</link>
+      <link>https://covid19-data-forum.org/meetings/1st_meeting/</link>
       <pubDate>Thu, 14 May 2020 13:51:25 +0600</pubDate>
       
-      <guid>/meetings/1st_meeting/</guid>
+      <guid>https://covid19-data-forum.org/meetings/1st_meeting/</guid>
       <description>Welcome everyone! to the first session of the COVID-19 Data Forum.</description>
     </item>
     
     <item>
       <title>May 14, 2020 Webinar Recap</title>
-      <link>/meetings/20200514_webinar/</link>
+      <link>https://covid19-data-forum.org/meetings/20200514_webinar/</link>
       <pubDate>Thu, 14 May 2020 13:51:25 +0600</pubDate>
       
-      <guid>/meetings/20200514_webinar/</guid>
+      <guid>https://covid19-data-forum.org/meetings/20200514_webinar/</guid>
       <description>The first COVID-19 Data Forum, co-sponsored by the Stanford Data Science Institute and the R Consortium, was held May 14, 2020.</description>
     </item>
     

@@ -2,8 +2,8 @@ schedule:
   enable : true
   title_outline : ""  ## Anything here shows up in big letters using
                       ## font outlines and takes up space!
-  title : "Mobility data in monitoring and forecasting COVID-19"
-  content : "The goal of this upcoming event is to discuss the promises and challenges of large-scale human mobility data, and the diversity of ways it’s used to understand SARS-CoV-2 spread and the behavioral/policy responses to the pandemic."
+  title : "Last Event: Mobility data in monitoring and forecasting COVID-19"
+  content : "The goal of this event was to discuss the promises and challenges of large-scale human mobility data, and the diversity of ways it’s used to understand SARS-CoV-2 spread and the behavioral/policy responses to the pandemic. \n\nWe apologize for the partial loss of video in the initial stages."
   schedule_tab:
     ################# tab itam loop ################
     - title : "Agenda"
@@ -19,6 +19,7 @@ schedule:
 
           ###### Assistant Vice President, Data Science and AI Research, Chief Data Office, AT&T.
 
+          #### [Audio](https://youtu.be/Blab8omzrb8?t=158).
 
           "
         # schedule loop item
@@ -32,6 +33,8 @@ schedule:
           Director of the Center for Communicable Disease Dynamics at
           the Harvard T.H. Chan School of Public Health.
 
+          #### [Audio/Video](https://youtu.be/Blab8omzrb8?t=260).
+
 
           "
 
@@ -40,12 +43,12 @@ schedule:
           image : "images/people/2020-12-10/Fraser.jpg"
           content : "
 
-          ### Christophe Fraser
+          ### Luca Ferretti
 
-          ###### Professor of Pathogen Dynamics at University of
-          Oxford and Senior Group Leader at Big Data Institute, Oxford
+          ###### Senior Researcher in Statistical Genetics and Pathogen Dynamics, Big Data Institute, Oxford
           University, UK.
 
+          #### [Video](https://youtu.be/Blab8omzrb8?t=1486).
 
           "
 
@@ -58,6 +61,7 @@ schedule:
 
           ###### Vice-president Research & Analytics for Direct Relief.
 
+          #### [Video](https://youtu.be/Blab8omzrb8?t=2790).
           "
 
         # schedule loop item
@@ -67,6 +71,7 @@ schedule:
 
           ### Panel Q&A 
 
+          #### [Video](https://youtu.be/Blab8omzrb8?t=4471).
 
           "
 

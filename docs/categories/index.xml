@@ -2,22 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on COVID-19 Data Forum</title>
-    <link>/categories/</link>
+    <link>https://covid19-data-forum.org/categories/</link>
     <description>Recent content in Categories on COVID-19 Data Forum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020</copyright>
-    <lastBuildDate>Thu, 14 May 2020 13:51:25 +0600</lastBuildDate>
-    
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 14 May 2020 13:51:25 +0600</lastBuildDate><atom:link href="https://covid19-data-forum.org/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Past Event</title>
-      <link>/categories/past-event/</link>
+      <link>https://covid19-data-forum.org/categories/past-event/</link>
       <pubDate>Thu, 14 May 2020 13:51:25 +0600</pubDate>
       
-      <guid>/categories/past-event/</guid>
+      <guid>https://covid19-data-forum.org/categories/past-event/</guid>
       <description></description>
     </item>
     

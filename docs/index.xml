@@ -2,67 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>COVID-19 Data Forum</title>
-    <link>/</link>
+    <link>https://covid19-data-forum.org/</link>
     <description>Recent content on COVID-19 Data Forum</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 16 Jun 2020 10:27:41 -0700</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 16 Jun 2020 10:27:41 -0700</lastBuildDate><atom:link href="https://covid19-data-forum.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Balasubramanian Narasimhan</title>
+      <link>https://covid19-data-forum.org/author/naras/</link>
+      <pubDate>Tue, 16 Jun 2020 10:27:41 -0700</pubDate>
+      
+      <guid>https://covid19-data-forum.org/author/naras/</guid>
+      <description>Balasubramanian Narasimhan is a Senior Research Scientist in the Department of Biomedical Data Sciences and Department of Statistics at Stanford University.</description>
+    </item>
     
     <item>
       <title>Chris Mentzel</title>
-      <link>/author/chris-mentzel/</link>
+      <link>https://covid19-data-forum.org/author/chris-mentzel/</link>
       <pubDate>Tue, 16 Jun 2020 10:27:41 -0700</pubDate>
       
-      <guid>/author/chris-mentzel/</guid>
-      <description>Chris is executive director of a newly formed data science effort at Stanford University, which engages the entire campus community in developing and leveraging new data science theory and practice to accelerate research.</description>
+      <guid>https://covid19-data-forum.org/author/chris-mentzel/</guid>
+      <description>Chris is executive director of Stanford Data Science, a new unit on campus which engages the University community in developing and leveraging new data science theory and practice to accelerate research.</description>
+    </item>
+    
+    <item>
+      <title>Michael Kane</title>
+      <link>https://covid19-data-forum.org/author/michael-kane/</link>
+      <pubDate>Tue, 16 Jun 2020 10:27:41 -0700</pubDate>
+      
+      <guid>https://covid19-data-forum.org/author/michael-kane/</guid>
+      <description>Michael Kane is Assistant Professor in Yale University&amp;rsquo;s Biostatistics Department. He is also part of the Yale Center of Analytical Sciences and Yale School of Public Health where he is involved in the analytics clinics and global health studies.</description>
+    </item>
+    
+    <item>
+      <title>Alison Hill</title>
+      <link>https://covid19-data-forum.org/author/alison-hill/</link>
+      <pubDate>Wed, 10 Jun 2020 10:27:41 -0700</pubDate>
+      
+      <guid>https://covid19-data-forum.org/author/alison-hill/</guid>
+      <description>Alison Hill is an Assistant Professor at Johns Hopkins University, and a core faculty member at their Institute for Computational Medicine and Infectious Disease Dynamics Group.</description>
+    </item>
+    
+    <item>
+      <title>Joe Rickert</title>
+      <link>https://covid19-data-forum.org/author/joe-rickert/</link>
+      <pubDate>Wed, 10 Jun 2020 10:27:41 -0700</pubDate>
+      
+      <guid>https://covid19-data-forum.org/author/joe-rickert/</guid>
+      <description>Joe Rickert is Chair of the R-Consortium Board of Directors. Joe has worked as a statistician for a small healthcare economics consulting firm, and before that he held a variety of technical, marketing and sales positions while working for startups that spanned multiple industries including government contracting, local area networks, disk drives and test equipment.</description>
     </item>
     
     <item>
       <title>John Chambers</title>
-      <link>/author/john-chambers/</link>
+      <link>https://covid19-data-forum.org/author/john-chambers/</link>
       <pubDate>Wed, 10 Jun 2020 10:27:41 -0700</pubDate>
       
-      <guid>/author/john-chambers/</guid>
-      <description>John Chambers was a member of Bell Labs research from 1966 until his retirement in 2005.</description>
+      <guid>https://covid19-data-forum.org/author/john-chambers/</guid>
+      <description>John Chambers spent his professional career at Bell Labs, from 1966 until his retirement in 2005.</description>
+    </item>
+    
+    <item>
+      <title>August 13, 2020 Webinar Recap</title>
+      <link>https://covid19-data-forum.org/meetings/20200813_webinar/</link>
+      <pubDate>Thu, 14 May 2020 13:51:25 +0600</pubDate>
+      
+      <guid>https://covid19-data-forum.org/meetings/20200813_webinar/</guid>
+      <description>Beyond case counts: Making COVID-19 clinical data available and useful August 13, 2020</description>
     </item>
     
     <item>
       <title>Intro to the first meeting</title>
-      <link>/meetings/1st_meeting/</link>
+      <link>https://covid19-data-forum.org/meetings/1st_meeting/</link>
       <pubDate>Thu, 14 May 2020 13:51:25 +0600</pubDate>
       
-      <guid>/meetings/1st_meeting/</guid>
+      <guid>https://covid19-data-forum.org/meetings/1st_meeting/</guid>
       <description>Welcome everyone! to the first session of the COVID-19 Data Forum.</description>
     </item>
     
     <item>
       <title>May 14, 2020 Webinar Recap</title>
-      <link>/meetings/20200514_webinar/</link>
+      <link>https://covid19-data-forum.org/meetings/20200514_webinar/</link>
       <pubDate>Thu, 14 May 2020 13:51:25 +0600</pubDate>
       
-      <guid>/meetings/20200514_webinar/</guid>
+      <guid>https://covid19-data-forum.org/meetings/20200514_webinar/</guid>
       <description>The first COVID-19 Data Forum, co-sponsored by the Stanford Data Science Institute and the R Consortium, was held May 14, 2020.</description>
     </item>
     
     <item>
       <title>John Doe</title>
-      <link>/author/john-doe/</link>
+      <link>https://covid19-data-forum.org/author/john-doe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/john-doe/</guid>
+      <guid>https://covid19-data-forum.org/author/john-doe/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
     </item>
     
     <item>
       <title>Tom Hunk</title>
-      <link>/author/tom-hunk/</link>
+      <link>https://covid19-data-forum.org/author/tom-hunk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/author/tom-hunk/</guid>
+      <guid>https://covid19-data-forum.org/author/tom-hunk/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue.</description>
     </item>
     
