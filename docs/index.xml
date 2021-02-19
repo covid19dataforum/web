@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2020</copyright>
-    <lastBuildDate>Tue, 16 Jun 2020 10:27:41 -0700</lastBuildDate><atom:link href="https://covid19-data-forum.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Feb 2021 13:51:25 +0600</lastBuildDate><atom:link href="https://covid19-data-forum.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>December 10, 2020 Webinar Recap</title>
+      <link>https://covid19-data-forum.org/meetings/20201210_webinar/</link>
+      <pubDate>Sun, 14 Feb 2021 13:51:25 +0600</pubDate>
+      
+      <guid>https://covid19-data-forum.org/meetings/20201210_webinar/</guid>
+      <description>Mobility data in monitoring and forecasting COVID-19 December 10, 2020</description>
+    </item>
+    
     <item>
       <title>Balasubramanian Narasimhan</title>
       <link>https://covid19-data-forum.org/author/naras/</link>
