@@ -15,7 +15,7 @@ In this forum, we will examine the contributions of data journalism to informing
       schedule_items:
 
         # schedule loop item
-        - time : ""
+        - time : "moderator"
           image : "images/people/2021-03-08/irena_hwang.jpg"
           content : "
 
