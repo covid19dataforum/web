@@ -49,6 +49,17 @@ In this forum, we will examine the contributions of data journalism to informing
 
         # schedule loop item
         - time : "TBA"
+          image : "images/people/2021-03-08/meghan-hoyer.png"
+          content : "
+
+          ### [Meghan Hoyer](https://www.washingtonpost.com/people/meghan-hoyer/)
+
+          ###### Director of the data reporting team at The Washington Post.
+
+          "
+
+                # schedule loop item
+        - time : "TBA"
           image : ""
           content : "
 
