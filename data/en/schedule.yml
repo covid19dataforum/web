@@ -15,7 +15,7 @@ In this forum, we will examine the contributions of data journalism to informing
       schedule_items:
 
         # schedule loop item
-        - time : "moderator"
+        - time : "9:00am"
           image : "images/people/2021-03-08/irena_hwang.jpg"
           content : "
 
@@ -25,7 +25,7 @@ In this forum, we will examine the contributions of data journalism to informing
 
           "
         # schedule loop item
-        - time : "TBA"
+        - time : "9:05am"
           image : "images/people/2021-03-08/mark_hansen.jpg"
           content : "
 
@@ -37,7 +37,7 @@ In this forum, we will examine the contributions of data journalism to informing
           "
 
         # schedule loop item
-        - time : "TBA"
+        - time : "9:25am"
           image : "images/people/2021-03-08/carolina_ana_moreno2.jpg"
           content : "
 
@@ -48,7 +48,7 @@ In this forum, we will examine the contributions of data journalism to informing
           "
 
         # schedule loop item
-        - time : "TBA"
+        - time : "9:45am"
           image : "images/people/2021-03-08/MeghanHoyer.jpg"
           content : "
 
@@ -59,7 +59,7 @@ In this forum, we will examine the contributions of data journalism to informing
           "
 
                 # schedule loop item
-        - time : "TBA"
+        - time : "10:05am"
           image : ""
           content : "
 
