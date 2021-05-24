@@ -1,132 +1,80 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://covid19-data-forum.org/categories/</loc>
     <lastmod>2021-02-14T13:51:25+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/</loc>
     <lastmod>2021-02-14T13:51:25+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/meetings/20201210_webinar/</loc>
     <lastmod>2021-02-14T13:51:25+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/categories/past-event/</loc>
     <lastmod>2021-02-14T13:51:25+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/author/</loc>
     <lastmod>2020-06-16T10:27:41-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/author/naras/</loc>
     <lastmod>2020-06-16T10:27:41-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/author/chris-mentzel/</loc>
     <lastmod>2020-06-16T10:27:41-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/author/michael-kane/</loc>
     <lastmod>2020-06-16T10:27:41-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/meetings/</loc>
     <lastmod>2020-06-11T13:51:25+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/author/alison-hill/</loc>
     <lastmod>2020-06-10T10:27:41-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/author/joe-rickert/</loc>
     <lastmod>2020-06-10T10:27:41-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/author/john-chambers/</loc>
     <lastmod>2020-06-10T10:27:41-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/meetings/20200813_webinar/</loc>
     <lastmod>2020-05-14T13:51:25+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/meetings/1st_meeting/</loc>
     <lastmod>2020-05-14T13:51:25+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/meetings/20200514_webinar/</loc>
     <lastmod>2020-05-14T13:51:25+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/about/</loc>
     <lastmod>2019-09-10T13:51:25+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/blog/</loc>
     <lastmod>2019-09-10T13:51:25+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/contact/</loc>
     <lastmod>2019-09-10T13:51:25+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/schedule/</loc>
     <lastmod>2019-09-10T13:51:25+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/speaker/</loc>
     <lastmod>2019-09-10T13:51:25+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/faq/</loc>
     <lastmod>2019-09-10T13:51:25+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/register/</loc>
     <lastmod>2019-09-10T13:51:25+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/search/</loc>
     <lastmod>2019-09-05T15:24:04+06:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/author/john-doe/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/tags/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://covid19-data-forum.org/author/tom-hunk/</loc>
   </url>
-  
 </urlset>

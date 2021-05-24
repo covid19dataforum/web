@@ -12,12 +12,12 @@ banner:
 
 ########################## timer #################################
 timer:
-  enable : true
+  enable : false
   title : "**Time** to next conference"
   # set timer
   year: "2021"
-  month: "03"
-  day: "18"
+  month: "06"
+  day: "24"
   hour: "09"
 
 ############################## Event ##############################

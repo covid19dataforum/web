@@ -118,8 +118,8 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [params.navigation_button]
-enable = true
-label = "Next Event: 18Mar"
+enable = false
+label = "Next Event: 24Jun"
 ##link = ""
 link = "https://stanford.zoom.us/webinar/register/1416141140945/WN_l8MdeZYeRhGcdU29dTM6sw"
 
